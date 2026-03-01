@@ -3,7 +3,7 @@
 import 'package:dashbord/pages/client_page.dart';
 import 'package:dashbord/pages/server_page.dart';
 import 'package:flutter/material.dart';
-import 'util/constant.dart' ;
+import '../util/constant.dart' ;
 
 class HomePage extends StatelessWidget {
   @override

@@ -1,10 +1,11 @@
 import 'dart:developer' as dev;
 
+import 'package:dashbord/providers/app_provider.dart';
 import 'package:flutter/material.dart';
 
 class NotificationDrawer extends StatelessWidget {
   //burada notificationları almalı
-  const NotificationDrawer({super.key});
+  const NotificationDrawer({super.key, required AppProvider provider});
 
   @override
   Widget build(BuildContext context) {

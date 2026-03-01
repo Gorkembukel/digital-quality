@@ -1,7 +1,7 @@
 //metrikler ile alakalı widgetlar burada belirlenecek
 
 
-import 'package:dashbord/pages/util/constant.dart';
+import 'package:dashbord/util/constant.dart';
 import 'package:flutter/material.dart';
 
 class MymetricTile extends StatefulWidget{
